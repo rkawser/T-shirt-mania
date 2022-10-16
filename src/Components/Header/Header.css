@@ -1,0 +1,12 @@
+
+.nav-container{
+    margin-top: 15px;
+}
+.link-style {
+   text-decoration: none; 
+   margin-right:10px;
+   background-color: aquamarine;
+   padding: 2px 8px;
+   border-radius: 5px;
+   font-weight: bold;
+}

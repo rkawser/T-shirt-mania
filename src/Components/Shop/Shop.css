@@ -1,0 +1,30 @@
+
+
+.shop-container img{
+    width: 150px;
+    border-radius: 10px;
+}
+
+.shop-container{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:steelblue;
+    text-align: center;
+}
+
+.shopCard-style{
+ padding: 7px 5px;
+}
+
+.shop-btn{
+    height: 30px;
+    width: 50%;
+    border-radius: 5px;
+    border: none;
+    background-color: antiquewhite;
+    transition: 0.6s;
+}
+
+.shop-btn:hover{
+    background-color: orange;
+}
